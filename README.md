@@ -1,11 +1,6 @@
 # GIGABYTE-Z590-GAMING-X-I5-11400
 Within this repository I share my Hackintosh EFI for my newest build based on Intels Rocketlake 11th Gen CPU
-
-![Снимок экрана 2022-02-28 в 20 36 24](https://user-images.githubusercontent.com/67542372/155993691-79b1fe7f-bb5a-4a10-938c-a5b0c42fb331.png)
-![Снимок экрана 2022-02-28 в 20 36 32](https://user-images.githubusercontent.com/67542372/155993694-83f4a182-3591-4e73-a8cf-b705ba51c829.png)
-![Снимок экрана 2022-02-28 в 20 41 07](https://user-images.githubusercontent.com/67542372/155993696-d46c037d-6fb1-4a25-9acc-8fc578f0d771.png)
-![Снимок экрана 2022-02-28 в 20 36 07](https://user-images.githubusercontent.com/67542372/155993684-3f723414-4e93-4e35-87ea-d8977d863ba0.png)
-
+![Снимок экрана 2022-02-28 в 21 17 30](https://user-images.githubusercontent.com/67542372/155998447-92e5dbed-5c4d-4bab-875f-aa886d4e348a.png)![Снимок экрана 2022-02-28 в 21 18 04](https://user-images.githubusercontent.com/67542372/155998460-2d609be1-735e-4cf1-86ad-751c5b500b49.png)
 
 Hardware used in this build:
 CPU: Intel i5-11400
