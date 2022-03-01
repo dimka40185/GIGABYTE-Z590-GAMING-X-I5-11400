@@ -17,7 +17,7 @@ SSDs: 1x 250 GB Samsung 970 Evo Plus for Windows 10 + 1x WD 120 GB for macOS
 
 
 # What is working #
-SMBIOS MacPro7,1 with full h264/h265 hardware encoding
+**SMBIOS MacPro7,1 with full h264/h265 hardware encoding
 Audio: It is started by the Apple ALC layout 12 kext
 Wifi/BT Broadcom BCM943602CS for macOS Compatibilty
 USB-ports. Have created my custom USB port mapping with USBMap.command
